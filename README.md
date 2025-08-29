@@ -45,6 +45,8 @@ pip install mysql-connector
 
 Make the database using the dump folder in the Reports folder or just execute one by one query in report folder filename *sql_file.sql*.
 In the config.ini file insert your database user, host and password otherwise the error will be occured.
+
+
 Run these python file :
 py app.py
 Author : Devika Kumawat
