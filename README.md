@@ -32,7 +32,7 @@ If you want to see the detail output of my project - Click here
 Installation Process :
 If you want to do this project then fork this project or clone using the following command :
 
-git clone https://github.com/PrathameshDhande22/Student-Management-System-in-Python.git
+git clone [https://github.com/devikakumawat08/Student-Attendance-System.git]
 Please Make Sure : The Mysql database should be installed. The following python modules should be installed mentioned below the introduction. To Install the Python Module : Use the following command
 
 pip install pillow
